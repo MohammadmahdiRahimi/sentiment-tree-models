@@ -6,7 +6,7 @@ This guide provides examples for using the sentiment classification models.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/MohammadmahdiRahimi/sentiment-tree-models.git
 cd sentiment-tree-models
 
 # Create virtual environment

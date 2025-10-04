@@ -21,6 +21,11 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/MohammadmahdiRahimi/sentiment-tree-models"
+"Repository" = "https://github.com/MohammadmahdiRahimi/sentiment-tree-models"
+"Bug Tracker" = "https://github.com/MohammadmahdiRahimi/sentiment-tree-models/issues"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 

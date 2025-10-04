@@ -35,7 +35,7 @@ Enhancement suggestions are welcome! Please open an issue with:
 
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/sentiment-tree-models.git
+git clone https://github.com/YOUR-USERNAME/sentiment-tree-models.git
 cd sentiment-tree-models
 
 # Create virtual environment
