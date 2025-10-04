@@ -27,8 +27,8 @@ The models are trained and evaluated on the Stanford Sentiment Treebank, which p
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd sentiment-models
+git clone https://github.com/MohammadmahdiRahimi/sentiment-tree-models.git
+cd sentiment-tree-models
 ```
 
 2. Create a virtual environment and install dependencies:
