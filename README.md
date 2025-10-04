@@ -88,10 +88,9 @@ model = LSTMClassifier(
 │       ├── training.py    # Training loops
 │       └── utils.py       # Helper functions
 ├── scripts/
-│   ├── quick_run.py       # Quick training example
-│   └── extract_pdf.py     # Utility scripts
+│   └── train.py           # Training pipeline
 ├── tests/
-│   └── test_data.py       # Unit tests
+│   └── test_integration.py  # Integration tests
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md

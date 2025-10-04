@@ -431,8 +431,9 @@ y = y.to(device)
 ## Examples
 
 See the `scripts/` directory for complete working examples:
-- `quick_run.py`: Simple training example
-- `train.py`: Full-featured training script with argument parsing
+- `train.py`: Full-featured training script with command-line arguments
+
+See `tests/test_integration.py` for usage examples of all models.
 
 ## Further Reading
 
